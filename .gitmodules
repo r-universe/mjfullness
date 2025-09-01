@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "BEKKs"]
 	path = BEKKs
-	url = https://github.com/cran/BEKKs
+	url = https://github.com/mjfullness/bekks
